@@ -1,6 +1,6 @@
 {
   "name": "gozesay",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Tell Goze what to say",
   "main": "index.js",
   "scripts": {

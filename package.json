@@ -1,0 +1,35 @@
+{
+  "name": "gozesay",
+  "version": "0.0.1",
+  "description": "Tell Goze what to say",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gozeon/gozesay.git"
+  },
+  "keywords": [
+    "stdout",
+    "chalk",
+    "goze",
+    "node",
+    "console"
+  ],
+  "author": "goze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gozeon/gozesay/issues"
+  },
+  "homepage": "https://github.com/gozeon/gozesay#readme",
+  "dependencies": {
+    "ansi-regex": "^3.0.0",
+    "ansi-styles": "^3.2.1",
+    "cli-boxes": "^1.0.0",
+    "pad-component": "0.0.1",
+    "string-width": "^2.1.1",
+    "strip-ansi": "^4.0.0",
+    "wrap-ansi": "^3.0.1"
+  }
+}
